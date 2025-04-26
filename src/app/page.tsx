@@ -54,7 +54,7 @@ export default function PortfolioPage() {
         <div className="container mx-auto px-4">
           <div className="flex justify-between items-center">
             <Link href="#home" className="text-2xl font-bold text-white">
-              <marquee>Mariza Delice</marquee> <span className="text-purple-400">.</span>
+              Mariza Delice <span className="text-purple-400">.</span>
             </Link>
             
             <div className="hidden md:flex space-x-8">
@@ -92,7 +92,7 @@ export default function PortfolioPage() {
               />
             </div>
             <div className="flex-1">
-              <h2 className="text-2xl font-bold text-white mb-2">Hi, I'm MARIZA Delice</h2>
+            <h2 className="text-2xl font-bold text-white mb-2">Hi, I&apos;m MARIZA Delice</h2>
               <h3 className="text-xl text-purple-200 mb-4">Frontend Developer</h3>
               <p className="text-gray-300">
                 I create beautiful, responsive websites with modern technologies. 
